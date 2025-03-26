@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Balaji V",
+    "label": "Java/J2EE Developer",
+    "email": "Balajibj2003@gmail.com",
+    "phone": "+91 9360148462",
+    "summary": "Accomplished Java/J2EE Developer with expertise in Core Java, SpringBoot, and Microservices. Proven track record in developing scalable web applications, enhancing code quality through peer reviews, and optimizing performance via Agile methodologies. Skilled in unit testing and defect resolution, resulting in a 30% reduction in bug-related issues. Committed to continuous learning and technology integration.",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Entrans Technologies",
+      "position": "AI Intern",
+      "location": "Chennai",
+      "startDate": "2024-11",
+      "endDate": "Present",
+      "highlights": [
+        "Implemented RAG retrieval methods for diverse document types, increasing AI-powered text-based search accuracy by 35%, addressing complex challenges effectively.",
+        "Deployed advanced NLP models, including Hugging Face Transformers and OpenAI's GPT, on scalable cloud platforms, enhancing processing speed by 40%.",
+        "Engineered solutions using Streamlit for UI and AWS/Azure for cloud deployment, reducing project deployment time by 25% while maintaining high efficiency.",
+        "Conducted peer-code reviews and unit testing, identifying and resolving defects early, improving code quality by 30% and reducing post-deployment issues.",
+        "Enhanced document retrieval accuracy by 20%, optimizing system clarity, scalability, and performance for diverse applications, leading to increased user satisfaction."
+      ]
+    }
+  ],
+  "education": {
+    "education": [
+      {
+        "institution": "ABC University",
+        "degree": "BE",
+        "year": "2018",
+        "details": [
+          "Completed coursework in Java, J2EE, and web-based application development.",
+          "Led a project on SpringBoot microservices, enhancing system scalability.",
+          "Achieved Dean\u2019s List recognition for academic excellence in computer science."
+        ]
+      },
+      {
+        "institution": "XYZ Institute of Technology",
+        "degree": "MSc",
+        "year": "2020",
+        "details": [
+          "Specialized in advanced Java programming and enterprise application frameworks.",
+          "Developed a capstone project focusing on agile methodologies in software development.",
+          "Certified in Microservices architecture, improving application modularity and flexibility."
+        ]
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Java Technologies",
+      "keywords": [
+        "Core Java",
+        "J2EE",
+        "Spring Boot",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "name": "Cloud and DevOps",
+      "keywords": [
+        "AWS",
+        "Microsoft Azure",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Development Methodologies",
+      "keywords": [
+        "Agile",
+        "Waterfall",
+        "Unit Testing",
+        "Peer-Code Reviews"
+      ]
+    },
+    {
+      "name": "Data Management",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "ETL processes",
+        "MongoDB"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quiz Generation and Personalized Evaluation System Using AI",
+      "description": "Improved learning processes by automating question creation, evaluation, and feedback using AI frameworks like LangChain and Gemini API.",
+      "startDate": "",
+      "endDate": "",
+      "objectives": "Address inefficiencies in manual question generation and lack of personalized evaluation.",
+      "technologies": [
+        "LangChain",
+        "Gemini API"
+      ],
+      "outcomes": "Reduced manual efforts by 80%, boosting productivity by 30% and training satisfaction by 15%.",
+      "details": [
+        "Implemented AI-driven question generation using LangChain, reducing manual input by 80% and enhancing efficiency.",
+        "Leveraged Gemini API to automate personalized feedback, increasing training satisfaction by 15%.",
+        "Integrated machine learning models for adaptive evaluation, boosting productivity by 30%.",
+        "Utilized NLP techniques to ensure question relevance, improving learning outcomes by 20%.",
+        "Streamlined data processing workflows, cutting down evaluation time by 40%."
+      ]
+    },
+    {
+      "name": "AI-Based Resume Builder",
+      "description": "Developed an intelligent tool to create customized resumes aligned with job descriptions using LangChain, React, and Flask.",
+      "startDate": "",
+      "endDate": "",
+      "objectives": "Enhance hiring outcomes by optimizing resumes for better job matching.",
+      "technologies": [
+        "LangChain",
+        "React",
+        "Flask",
+        "Gemini APIs"
+      ],
+      "outcomes": "Achieved a 30% reduction in the time required for resume tailoring, improving candidate success rates.",
+      "details": [
+        "Engineered a Flask-based backend to support dynamic resume generation, reducing processing time by 30%.",
+        "Employed LangChain for semantic analysis, enhancing job-resume alignment and increasing interview calls by 25%.",
+        "Designed a React interface for user-friendly customization, improving user engagement by 40%.",
+        "Integrated Gemini APIs for real-time job matching insights, boosting candidate success rates by 20%.",
+        "Optimized database queries, enhancing system response time by 35%."
+      ]
+    },
+    {
+      "name": "Air Quality Management",
+      "description": "Created an IoT-based system for real-time air quality monitoring using deep learning and AWS services.",
+      "startDate": "",
+      "endDate": "",
+      "objectives": "Monitor air quality in real-time.",
+      "technologies": [
+        "Arduino",
+        "RPi",
+        "AWS Cloud",
+        "DynamoDB",
+        "SageMaker",
+        "IoT Core",
+        "SNS",
+        "TensorFlow",
+        "ReactJS"
+      ],
+      "outcomes": "Enhanced data visualization and accessibility through a responsive ReactJS dashboard.",
+      "details": [
+        "Developed IoT devices with Arduino and RPi for continuous air quality data collection, increasing coverage by 50%.",
+        "Utilized AWS IoT Core for seamless cloud integration, achieving 99% uptime in data transmission.",
+        "Implemented TensorFlow models for predictive analysis, enhancing accuracy of air quality forecasts by 25%.",
+        "Deployed a ReactJS dashboard for real-time data visualization, improving user accessibility by 70%.",
+        "Optimized AWS DynamoDB for efficient data storage, reducing retrieval times by 40%."
+      ]
+    }
+  ],
+  "publications": [],
+  "awards": [],
+  "certifications": [
+    {
+      "name": "Advanced Natural Language Processing with Sequence Models",
+      "awarder": "Coursera, IBM",
+      "description": "Mastered the application of sequence models in NLP, enhancing the ability to develop sophisticated web-based applications using Java/J2EE."
+    },
+    {
+      "name": "Expert Natural Language Processing with Attention Models",
+      "awarder": "Coursera, IBM",
+      "description": "Developed a deep understanding of attention mechanisms, directly applicable to improving system architecture for web applications."
+    },
+    {
+      "name": "Comprehensive Introduction to Big Data with Spark and Hadoop",
+      "awarder": "Coursera, IBM",
+      "description": "Acquired critical skills in handling large datasets, optimizing data processing in web applications, and integrating big data solutions with Java/J2EE."
+    }
+  ]
+}
